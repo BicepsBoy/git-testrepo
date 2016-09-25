@@ -12,6 +12,7 @@ namespace MyTraining
         {
             Console.WriteLine("First file in repo");
             Console.WriteLine("Now i will see some changes in SmartGit");
+            GoodByeClass.GoodBye( "Andrew" );
         }
     }
 }
