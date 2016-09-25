@@ -1,0 +1,6 @@
+C:\Git\git-testrepo\MyTraining\MyTraining\bin\Debug\MyTraining.exe.config
+C:\Git\git-testrepo\MyTraining\MyTraining\bin\Debug\MyTraining.exe
+C:\Git\git-testrepo\MyTraining\MyTraining\bin\Debug\MyTraining.pdb
+C:\Git\git-testrepo\MyTraining\MyTraining\obj\Debug\MyTraining.csprojResolveAssemblyReference.cache
+C:\Git\git-testrepo\MyTraining\MyTraining\obj\Debug\MyTraining.exe
+C:\Git\git-testrepo\MyTraining\MyTraining\obj\Debug\MyTraining.pdb
